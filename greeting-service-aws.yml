@@ -15,6 +15,6 @@ feign:
         loggerLevel: basic
 integration:
   concat:
-    url: http://concatservice-env.eba-3b3prm7q.us-east-2.elasticbeanstalk.com/concat
+    url: http://concatservice-env.eba-32nmmc9z.us-east-1.elasticbeanstalk.com/concat
   hello:
-    url: http://helloService-env.eba-fxvkijqe.us-east-2.elasticbeanstalk.com/hello
+    url: http://helloservice-env.eba-u2cfyrcc.us-east-1.elasticbeanstalk.com/hello
